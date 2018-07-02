@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: by.itacademy.homework.TestBeanFactory
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.013 s - in by.itacademy.homework.TestBeanFactory
